@@ -1,7 +1,3 @@
 # Mobiquity
 
-**Tools Used:**
-Java,
-Rest Assured,
-TestNG,
-Extent Reports.
+API Automation Framwork built using Rest Assured, Java, Maven, TestNG, Extent Reports.
